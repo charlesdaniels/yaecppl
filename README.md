@@ -5,19 +5,12 @@ YAECPPL (pronounced "yaspel") is designed to be an easy to use, robust, written 
 
 ## Features 
 * no dependencies 
-
 * just instantiate one class object, then let yaecppl do the rest 
-
 * highly configurable 
-
 * log to a file, stdout, or stderr 
-
 * log error messages separately from information 
-
 * change where messages are logged during runtime 
-
 * easy-to-parse output 
-
 * optional timestamps 
 
 ## Installation 
@@ -56,25 +49,17 @@ This will give you output similar to this:
 You can also use one of five log levels:
 
 * info
-
 * data
-
 * warning
-
 * error
-
 * fatal error 
 
 Which correspond in that order to the constants
 
 * YAECPPL_LEVEL_INFO
-
 * YAECPPL_LEVEL_DATA
-
 * YAECPPL_LEVEL_WARNING
-
 * YAECPPL_LEVEL_ERROR
-
 * YAECPPL_LEVEL_FATAL 
 
 You can set the log level of a message by passing it's constant to `commit()` like this: 
