@@ -1,5 +1,11 @@
 # Yet Another Easy C Plus Plus Logger 
 
+## Update 2017-11-21
+
+This project is not active, and has not been for some time. However, I have personally used it in a few other projects and found it useful, maybe someone else will at some point.
+
+I will accept PRs for new features, and may fix bugs if someone opens an issue, however development on this project has concluded and I am no longer particularly interested in it. 
+
 ## What is it? 
 YAECPPL (pronounced "yaspel") is designed to be an easy to use, robust, written in correct C++11, and have no dependencies. Despite the name, at the time I started YACPPL, I could not find any easy to use C++ loggers with the feature set I needed, therefore I decided to write one. 
 
